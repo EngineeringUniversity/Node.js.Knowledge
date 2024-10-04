@@ -8,6 +8,9 @@ sch: https://www.youtube.com/@freecodecamp/search?query=node
 ### 2022
 - [Node.js / Express Course - Build 4 Projects](https://youtu.be/qwfE7fSVaZM)
 
+### 2021
+- [Node.js and Express.js - Full Course](https://youtu.be/Oe421EPjeBE)
+
 ### 2018
 - [Learn Node.js - Full Tutorial for Beginners](https://youtu.be/RLtyhwFtXQA)
 
